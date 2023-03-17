@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /* Positive anything is better than negative nothing */
 /**
  * main - This program will assign a random number to the variable
