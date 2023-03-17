@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - This program will print the sizes on the computer it is compiled 
- * return: zero (this signifies the end of the program)
+ * main - This program will print the sizes on the computer it is compiled
+ * Return: zero (this signifies the end of the program)
  */
 int main(void)
 {
