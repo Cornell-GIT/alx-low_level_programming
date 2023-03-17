@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game */
+/* The alphabet game */
 /**
  * main - This program that prints the alphabet in lowercase
  *
@@ -17,6 +17,5 @@ int main(void)
 		putchar(alp[i]);
 	}
 	putchar('\n');
-	
 	return (0);
 }
