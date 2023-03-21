@@ -1,4 +1,3 @@
-#ifndef main_h
 #include "main.h"
 /**
  * main - this program will print _putchar
