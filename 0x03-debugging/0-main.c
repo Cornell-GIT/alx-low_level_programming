@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
  * main - This program tests that the function is positive or negative
  * Return: 0
  */
+
 int main(void)
 {
 	int i;
@@ -10,5 +12,5 @@ int main(void)
 	i = 0;
 	positive_or_negative(i);
 
-	return (0);
+return (0);
 }
