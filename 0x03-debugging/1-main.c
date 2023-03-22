@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - This program causes the output to go into an infinite loop
  * Return: 0
