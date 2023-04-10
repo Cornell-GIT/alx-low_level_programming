@@ -6,19 +6,19 @@
 
 /**
  * check_num - this function checks for digits in the string
- * @s: string
+ * @str: string
  * Return: Always 0 (Success)
  */
 
-int check_num(char *s)
+int check_num(char *str)
 {
 	unsigned int count;
 
 	count = 0;
-	while (count < length(s))
+	while (count < strlen(str))
 
 	{
-		if (!isdigit(s[count]))
+		if (!isdigit(str[count]))
 		{
 			return (0);
 		}
