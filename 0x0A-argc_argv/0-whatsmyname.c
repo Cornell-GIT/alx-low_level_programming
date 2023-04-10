@@ -1,10 +1,11 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 
 /**
  * main - this function prints its name, followed by a new line
  * @argc: number of arguments
  * @argv: array of arguments
+ *
  * Return: Always 0 (Success)
  */
 
