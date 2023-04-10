@@ -12,12 +12,12 @@ int _atoi(char *s)
 {
 	int x, y, i, l, z, d;
 
+	x = 0;
+	y = 0;
 	i = 0;
+	l = 0;
+	z = 0;
 	d = 0;
-	n = 0;
-	len = 0;
-	f = 0;
-	digit = 0;
 
 	while (s[l] != '\0')
 		l++;
